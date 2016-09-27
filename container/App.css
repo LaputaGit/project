@@ -1,0 +1,16 @@
+.app {
+  width: 200px;
+  height: 300px;
+  /*这是一张19K的jpg图片*/
+  background-image: url(../static/top.png);
+  position: relative;
+}
+
+.tip {
+  width: 100px;
+  height: 80px;
+  /*这是一张2k的png图片*/
+  background-image: url(../static/backtop.png);
+  position: absolute;
+  right: -100px;
+}
